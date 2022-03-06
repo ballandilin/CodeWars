@@ -15,6 +15,8 @@ Have fun!
 
 A tower of 3 floors with block size = (2, 3) looks like below
 
+
+```
 [
   '    **    ',
   '    **    ',
@@ -26,9 +28,11 @@ A tower of 3 floors with block size = (2, 3) looks like below
   '**********',
   '**********'
 ]
+```
 
 and a tower of 6 floors with block size = (2, 1) looks like below
 
+```
 [
   '          **          ', 
   '        ******        ', 
@@ -37,3 +41,4 @@ and a tower of 6 floors with block size = (2, 1) looks like below
   '  ******************  ', 
   '**********************'
 ]
+```
