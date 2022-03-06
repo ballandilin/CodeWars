@@ -8,5 +8,7 @@ The passed in string will only consist of alphabetical characters and spaces(' '
 
 ## Examples:
 
+```
 to_weird_case('String'); # => returns 'StRiNg'
 to_weird_case('Weird string case') # => returns 'WeIrD StRiNg CaSe'
+```
